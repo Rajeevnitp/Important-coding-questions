@@ -1,1 +1,1 @@
-# Important-coding-questions
+# 10 Days of Statistics
